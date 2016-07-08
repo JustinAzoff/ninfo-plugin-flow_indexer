@@ -17,5 +17,4 @@ Never seen.
 
 <a href="${base_url}v1/dump?i=${index}&q=${arg}">Dump all records</a>
 
-%endfor
 %endif
